@@ -44,7 +44,8 @@ plt.plot(x,y_predicted,color='purple')
 plt.show()
 
 ## Output:
-![best fit line](sam.png)
+<img width="565" alt="mlexp1" src="https://user-images.githubusercontent.com/127508123/227728446-d0152b8b-8d3a-4c58-872a-93356fba78e1.png">
+
 
 
 ## Result:
